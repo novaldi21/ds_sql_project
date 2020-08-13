@@ -24,7 +24,13 @@ Database used for the project is employee database named "employee_mod_db" that 
 * Employee's hire date (hire_date)
 
 **2. Departments data:** (t_departments)
-<br />Table of company department' details consisted with 9 rows and 2 columns, which are:
+<br />Table of company's departments details consisted with 9 rows and 2 columns, which are:
 * Department number (dept_no) **primary key**
 * Department name (dept_name)
 
+**3. Department managers data:** (t_dept_manager)
+<br />Table of company's department managers details consisted with 144 rows and 4 columns, which are:
+* Employee number (emp_no) **foreign key**
+* Department number (dept_no) **foreign key**
+* Date of start as manager (from_date)
+* Date of quit as manager (to_date)
