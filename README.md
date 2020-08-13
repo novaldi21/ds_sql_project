@@ -25,6 +25,6 @@ Database used for the project is employee database named "employee_mod_db" that 
 <br />
 <br />**2. Departments data:** (t_departments)
 <br />Table of company department' details consisted with 9 rows and 2 columns, which are:
-* Department number (dept_no) **primary key**
-* Department name (dept_name)
-<br />
+<br />* Department number (dept_no) **primary key**
+<br />* Department name (dept_name)
+
