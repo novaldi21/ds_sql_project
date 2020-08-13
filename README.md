@@ -23,7 +23,8 @@ Database used for the project is employee database named "employee_mod_db" that 
 * Employee's gender (gender)
 * Employee's hire date (hire_date)
 <br />
-**2. Departments data:** (t_departments)
+<br />**2. Departments data:** (t_departments)
 <br /> Table of company department' details consisted with 9 rows and 2 columns, which are:
-* Department number (dept_no) **primary key*
+* Department number (dept_no) **primary key**
 * Department name (dept_name)
+<br />
