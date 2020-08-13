@@ -13,7 +13,8 @@ The task of the project was "Compare the number of male managers to the number o
 
 ## Database
 Database used for the project is employee database named "employee_mod_db" that consisted with 3 tables, which are:
-<br />**1. employees data:** named "t_employees" consisted with 135369 rows and 6 columns, which are:
+<br />
+<br />**1. employees data:** (t_employees) consisted with 135369 rows and 6 columns, which are:
 * employee number (emp_no) which is the primary key
 * employee's birth date (birth_date)
 * employee's first name (first_name)
