@@ -7,3 +7,7 @@
 ## Code and Resources Used 
 **MySQL Version:** 8.0  
 **Tableau Public:** 2020.1
+
+## Project Task 
+The task of the project was "Compare the number of male managers to the number of female managers from different departments for each year from 1990 to 2002"
+
