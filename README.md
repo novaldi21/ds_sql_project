@@ -34,3 +34,6 @@ Database used for the project is employee database named "employee_mod_db" that 
 * Department number (dept_no) **foreign key**
 * Date of start as manager (from_date)
 * Date of quit as manager (to_date)
+
+## Query Building 
+Before building the query, I defined columns that were needed to be returned for clasified managers by genders.  
