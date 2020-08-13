@@ -46,6 +46,6 @@ Before building the query, I defined columns that were needed to be returned for
 * The active status of manager, compared from their managerial periode and hire date (active_status) from **Employees data** and **Department managers table**
 <br />
 To get the columns needed, I did a CROSS JOIN to join all tables based on their relation. These are the link to the 
-[Task Query](https://github.com/novaldi21/ds_sql_project/blob/master/Task_query.sql)
+[Task Query](/blob/master/Task_query.sql)
 
 
