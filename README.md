@@ -12,8 +12,8 @@
 The task of the project was "Compare the number of male managers to the number of female managers from different departments for each year from 1990 to 2002"
 
 ## Database
-Database used for the project is employee database named "employee_mod_db" that consisted with 3 tables, which are:
-<br />
+Database used for the project is employee database named [employee_mod_db](https://github.com/novaldi21/ds_sql_project/blob/master/Employee_mod_db.sql) that consisted with 3 tables, which are:
+
 **1. Employees table:** (t_employees) 
 <br />Table of employee's details that consisted with 135369 rows and 6 columns, which are:
 * Employee number (emp_no) **primary key**
