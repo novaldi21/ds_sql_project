@@ -37,19 +37,19 @@ Database used for the project is employee database named "employee_mod_db" that 
 
 ## Query Building 
 Before building the query, I defined columns that were needed to be returned for clasifying managers by gender. Column that were returned are:
-<br />
+
 * Department name (dept_name) from **Departments table**
 * Employee's gender (gender) from **Employees data**
 * Date of start as manager (from_date) from **Department managers table**
 * Date of quit as manager (to_date) from **Department managers table**
 * The year of employee's hire date (calendar_year) YEARS format of (hire_date) from **Employees data**
 * The active status of manager, compared from their managerial periode and hire date (active_status) from **Employees data** and **Department managers table**
-<br />
+
 To get the columns needed, I did a CROSS JOIN to join all tables based on their relation. 
-<br />These are the link to the [Task Query](https://github.com/novaldi21/ds_sql_project/blob/master/Task_query.sql) and [Return Spreadsheet](https://github.com/novaldi21/ds_sql_project/blob/master/Task.csv)
+These are the link to the [Task Query](https://github.com/novaldi21/ds_sql_project/blob/master/Task_query.sql) and [Return Spreadsheet](https://github.com/novaldi21/ds_sql_project/blob/master/Task.csv)
 
 ## Data Visualization
 Data visualization was built using Tableau and using the return spreadsheet from query. Data visualization is presented below and from the figure we can se that the proportion of male manager (blue) and female manager (orange) in the company from 1990 to 2002 are about 3:2 (60% male and 40% female)
 ![Alt](https://github.com/novaldi21/ds_sql_project/blob/master/task_visualization.png)
 
-Data visualization can also be seen in [Tableau Public](https://public.tableau.com/profile/mohamad.novaldi#!/vizhome/Task1SQLUdemy/Dashboard1)
+Data visualization can also be seen in [Tableau Public](https://public.tableau.com/profile/mohamad.novaldi#!/vizhome/Task1SQLUdemy/Dashboard1) which also consist of my another project
