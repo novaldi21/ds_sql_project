@@ -14,10 +14,16 @@ The task of the project was "Compare the number of male managers to the number o
 ## Database
 Database used for the project is employee database named "employee_mod_db" that consisted with 3 tables, which are:
 <br />
-<br />**1. employees data:** (t_employees) consisted with 135369 rows and 6 columns, which are:
-* employee number (emp_no) which is the primary key
-* employee's birth date (birth_date)
-* employee's first name (first_name)
-* employee's last name (last_name)
-* employee's gender (gender)
-* employee's hire date (hire_date)
+<br />**1. Employees data:** (t_employees) 
+<br />Table of employee's details that consisted with 135369 rows and 6 columns, which are:
+* Employee number (emp_no) **primary key**
+* Employee's birth date (birth_date)
+* Employee's first name (first_name)
+* Employee's last name (last_name)
+* Employee's gender (gender)
+* Employee's hire date (hire_date)
+<br />
+<br />**2. Departments data:** (t_departments)
+<br /> Table of company department' details consisted with 9 rows and 2 columns, which are:
+* Department number (dept_no) **primary key**
+* Department name (dept_name)
