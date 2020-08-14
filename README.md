@@ -52,4 +52,4 @@ These are the link to the [Task Query](https://github.com/novaldi21/ds_sql_proje
 Data visualization was built using Tableau and using the return spreadsheet from query. Data visualization is presented below and from the figure we can se that the proportion of male manager (blue) and female manager (orange) in the company from 1990 to 2002 are about 3:2 (60% male and 40% female)
 ![Alt](https://github.com/novaldi21/ds_sql_project/blob/master/task_visualization.png)
 
-Data visualization can also be seen in [Tableau Public](https://public.tableau.com/profile/mohamad.novaldi#!/vizhome/Task1SQLUdemy/Dashboard1) which also consisted with my another project
+Data visualization can also be seen in [Tableau Public](https://public.tableau.com/profile/mohamad.novaldi#!/vizhome/Task1SQLUdemy/Dashboard1) which also consisted with my other project
